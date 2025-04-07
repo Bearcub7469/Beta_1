@@ -1,1 +1,1 @@
-# chuga-Beta_1
+Beta_1
